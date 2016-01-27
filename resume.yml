@@ -1,0 +1,49 @@
+
+name: DJ Greenfield
+contactInfo: |
+  WEB DEVELOPER
+  12255 Claude Ct, Northglenn CO 80241
+  mr.kaitryn.dale@gmail.com
+  https://github.com/AllPurposeName
+  (720) 380 9380
+objective: |
+  Programming is a true passion of mine, so I am interested in opportunities which will nourish my growth. I know how to learn, I know how to implement what I've learned, and I know how to teach what I've implemented. I get excited about solving problems both big and small with the best code I can push myself to write. I appreciate best practices and hold myself to the highest of standards.
+keySkills:
+  RubyOnRails: null
+  ActiveRecord: null
+  PostgreSQL: null
+  JavaScript: null
+  MochaAndQUnit: null
+  Angular.js: null
+  TDD: null
+  RSpecAndMiniTest: null
+  Git: null
+bodyOfWork:
+  Github:
+    URL: www.github.com/AllPurposeName
+    Summary: I began coding in December of 2014. Found on my Github are various projects from the Turing School as well as several personal projects I have been working on for the last few months.
+  RunewordsAPI:
+    URL: www.github.com/AllPurposeName/runewords
+    Summary: A personal 72 hour code challenge centered around an understanding of HTTP requests, API construction, Angular front-end design, and project organization.
+  Personal/TechnicalBlog:
+    URL: www.allpurposename.com
+    Summary: I explore nerdy topics such as video and board game design, social justice, and slightly opinionated code talk. I also plan on using this space to publish tech related talks I have given.
+employmentHistory:
+  Commutyble: |
+    Web Developer                01/16 – present
+    I deliver clean, refactored, tested production code for a database with growing complexities. Despite great communication with the remote team, I am exhaustively documenting my code through verbose commit messages.
+
+  The Turing School: |
+    Teacher's Assistant            07/15 – 09/15
+    Evaluated student projects and final assessments, wrote a spec harness, wrote lesson plans, worked on various in-house applications, and paired excessively.
+
+  Ecomark Solar: |
+    Assistant Market Manager      02/14 – 12/14
+    Scheduled territory for the canvassers, established booths at local stores and homeowner events and procure license for counties and localities.
+training: Certificate in Web Application Development with Ruby, Rails, and JavaScript Turing School of Software and Design – 2015
+interests:
+  IAlsoEnjoyIndulgingInTheFollowingProgrammingRelatedTopics:
+    PublicSpeakingAboutTech: null
+    MentoringTuringStudents: null
+    DataStructuresAndAlgorithms: null
+    ExploringAPIs: null
